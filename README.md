@@ -72,3 +72,6 @@ Bye,Goodbye! Have a great day!
 
 **Bhavya Tatineni**  
 Chatbot assignment submission for academic purposes.
+outputL:
+![image](https://github.com/user-attachments/assets/2d3adbf8-a296-4b94-839b-70d0f2c9f014)
+
